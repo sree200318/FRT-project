@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sree200318/FRT-project.git/static/css/main.3b31bd22.css",
+    "main.js": "/sree200318/FRT-project.git/static/js/main.b1caa73e.js",
+    "index.html": "/sree200318/FRT-project.git/index.html",
+    "main.3b31bd22.css.map": "/sree200318/FRT-project.git/static/css/main.3b31bd22.css.map",
+    "main.b1caa73e.js.map": "/sree200318/FRT-project.git/static/js/main.b1caa73e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b31bd22.css",
+    "static/js/main.b1caa73e.js"
+  ]
+}
