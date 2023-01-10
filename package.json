@@ -3,7 +3,7 @@
   "name": "react-quiz-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sree200318/FRT-project.git",
+  "homepage": "https://sree200318.github.io/FRT-project/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
